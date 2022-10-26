@@ -59,7 +59,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
-                                        co.edu.escuelaing.securityprimerliveg2.HelloService
+                                        co.edu.escuelaing.palindromoservice.PalindromoService
                                     </mainClass>
                                 </manifest>
                             </archive>
