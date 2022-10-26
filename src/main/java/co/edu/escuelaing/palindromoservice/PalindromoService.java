@@ -8,13 +8,14 @@ import static spark.Spark.*;
  */
 public class PalindromoService {
 
+    
+
     public static void main(String[] args) {
         port(getPort());
         get("/palindrome",(req,res)->{
-            String s = req.queryParams("input");
+            String s = req.queryParams("value");
             return palindrome(s);
         });
-        System.out.println("123".length()/2);
     }
     
     public static String palindrome(String s){
