@@ -8,4 +8,5 @@ La aplicación consta de esta arquitectura
 
 Aqui se ven evidencia de funcionamiento
 ![](/src/main/resources/FuncionamientoPALINDROMO.png)
-![](/src/main/resources/FuncionamientoPROXYO.png)
+![](/src/main/resources/FuncionamientoPROXY.png)
+![](/src/main/resources/FuncionamientoPROXY2.png)
