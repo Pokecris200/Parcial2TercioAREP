@@ -22,6 +22,7 @@ public class ProxyService {
         get("/palindrome", (req, res) -> {
             String s = "404 NOT FOUND :*";
             URL obj = new URL(GET_URL+"?value="+req.queryParams("value"));
+            System.out.println(GET_URL+"?value="+req.queryParams("value"));
             HttpURLConnection con = (HttpURLConnection) obj.openConnection();
             con.setRequestMethod("GET");
             con.setRequestProperty("User-Agent", USER_AGENT);
