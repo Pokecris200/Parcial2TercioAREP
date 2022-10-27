@@ -14,7 +14,7 @@ import static spark.Spark.*;
 public class ProxyService {
 
     private static final String USER_AGENT = "Mozilla/5.0";
-    private static final String GET_URL = "http://127.0.0.1:8080/palindrome";
+    private static final String GET_URL = "https://ec2-3-83-175-74.compute-1.amazonaws.com:8080/palindrome";
 
     public static void main(String... args) throws IOException {
         port(getPort());

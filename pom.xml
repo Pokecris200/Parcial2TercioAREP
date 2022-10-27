@@ -59,7 +59,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
-                                        co.edu.escuelaing.palindromoservice.PalindromoService
+                                        co.edu.escuelaing.proxy.ProxyService
                                     </mainClass>
                                 </manifest>
                             </archive>
