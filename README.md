@@ -10,3 +10,7 @@ Aqui se ven evidencia de funcionamiento
 ![](/src/main/resources/FuncionamientoPALINDROMO.png)
 ![](/src/main/resources/FuncionamientoPROXY.png)
 ![](/src/main/resources/FUNCIONAMIENTOPROXY2.png)
+
+
+Video de Youtube
+https://youtube.com/shorts/NJFmHnh_iDU
